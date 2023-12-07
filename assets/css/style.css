@@ -1,0 +1,16 @@
+h2 {
+    padding-top: 25px;
+    text-align: center;
+}
+.form-container {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+  }
+  
+  form {
+    width: 50%;
+  /* }
+  .form-container {
+    box-sizing: border-box;
+  } */
